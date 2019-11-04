@@ -20,6 +20,6 @@ In ISE click File/Open Project/.../FIFO.xise and click Open.
 
 
 ## Documentation
-[Documentation](files/HALMAI_ERIK_FIFO.docx "Documentation")
+[Documentation](HALMAI_ERIK_FIFO.docx "Documentation")
 
 
