@@ -19,7 +19,7 @@ In ISE click File/Open Project/.../FIFO.xise and click Open.
 5. To Pop an element from the memory press the C4 button and the first element entered will be displayed onto the FPGA display.
 
 
-## Documentation
-[Documentation](HALMAI_ERIK_FIFO.docx "Documentation")
+## How it works
+The whole project is presented here: [Documentation](HALMAI_ERIK_FIFO.docx "Documentation")
 
 
